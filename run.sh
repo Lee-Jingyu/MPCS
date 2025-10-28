@@ -1,0 +1,1 @@
+python AttackGrayADE.py --attack_method CC --mmocr_model CRNN  --popnum 10 --popsize_range 60  --color_pop 600 --dataset CUTE80 --early_stop 1 --maxiters 10 

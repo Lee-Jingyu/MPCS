@@ -1,0 +1,36 @@
+{
+    "adv_LABELs": [
+        "staton",
+        "joachly",
+        "chelse",
+        "stubhus",
+        "pubrick",
+        "ariginal",
+        "friendshis",
+        "dishegland",
+        "erogodiles",
+        "capousee",
+        "nationel",
+        "heoster",
+        "campaigin",
+        "chiocoloyes",
+        "gadbury"
+    ],
+    "correct_LABELs": [
+        "station",
+        "joachim",
+        "chelsea",
+        "stubhub",
+        "publick",
+        "original",
+        "friendship",
+        "disneyland",
+        "crocodiles",
+        "carousel",
+        "national",
+        "register",
+        "campaign",
+        "chocolates",
+        "cadbury"
+    ]
+}

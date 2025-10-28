@@ -1,0 +1,1 @@
+python evaluate.py --mmocr_model CRNN --dataset CUTE80 --mat_path Data/ADE288Gray.mat
